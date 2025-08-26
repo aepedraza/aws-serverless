@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.876.0"
+  },
+  "name": "lecture164",
+  "version": "1.0.0",
+  "main": "createtable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
